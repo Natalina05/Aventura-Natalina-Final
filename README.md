@@ -6,4 +6,4 @@
 * As colaboradoras são: Ana Luiza (Aninha047), Julia (Julinha4463) e Natália (Natalina05).
 * Essa é a vesão final, mas antes de dar tudo ceto e finalizarmos o jogo, passamos por diversas dificuldades. As pricipais foram: arrumar o comando para voltar ao menu principal ao clicar ESC durante o jogo; trocar os personagens de desenho para imagem; fazer os personagens seram animados e adicionar uma tela que guarda as pontuações antigas, não conseguimos fazer esses dois ultimos por falta de domínio em python e falta de tempo. A versão antiga pode ser encontrada aqui: https://github.com/Natalina05/PacMan-3.git
 * Vídeo da programação e do jogo rodando: https://drive.google.com/file/d/19PuDrdb3qj01YavZ-cdY2X5WiZMB6YS5/view?usp=sharing
-* 
+  
